@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="500" y="42" text-anchor="middle" font-family="Arial" font-size="24" font-weight="bold" fill="#17324d">Water-Resistant Pavements: Experimental Workflow</text>
+<g font-family="Arial" font-size="16" text-anchor="middle" fill="#17324d" stroke="#49708a" stroke-width="2">
+<rect x="60" y="90" width="250" height="72" rx="12" fill="#eaf3f8"/><text x="185" y="119" stroke="none">Materials + approved</text><text x="185" y="141" stroke="none">mix design</text>
+<rect x="375" y="90" width="250" height="72" rx="12" fill="#eaf3f8"/><text x="500" y="119" stroke="none">Prepare control and</text><text x="500" y="141" stroke="none">modified specimens</text>
+<rect x="690" y="90" width="250" height="72" rx="12" fill="#eaf3f8"/><text x="815" y="119" stroke="none">Controlled curing</text><text x="815" y="141" stroke="none">and specimen IDs</text>
+<rect x="690" y="245" width="250" height="72" rx="12" fill="#fff2df"/><text x="815" y="274" stroke="none">Laboratory tests</text><text x="815" y="296" stroke="none">absorption + strength</text>
+<rect x="375" y="245" width="250" height="72" rx="12" fill="#fff2df"/><text x="500" y="274" stroke="none">Record actual results,</text><text x="500" y="296" stroke="none">replicates and cost</text>
+<rect x="60" y="245" width="250" height="72" rx="12" fill="#e8f5e9"/><text x="185" y="274" stroke="none">Compare results</text><text x="185" y="296" stroke="none">and limitations</text>
+<path d="M310 126 H365 M625 126 H680 M815 162 V235 M690 281 H635 M375 281 H320" fill="none" stroke="#49708a" stroke-width="3"/>
+<path d="M357 119 L367 126 L357 133 M672 119 L682 126 L672 133 M808 225 L815 237 L822 225 M645 274 L635 281 L645 288 M330 274 L320 281 L330 288" fill="none" stroke="#49708a" stroke-width="3"/>
+</g>
+<text x="500" y="380" text-anchor="middle" font-family="Arial" font-size="15" fill="#8a3b2f">No performance claim until actual laboratory tests are completed.</text>
+<text x="500" y="407" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Water resistance complements — it does not replace — drainage and pavement design.</text>
+</svg>
